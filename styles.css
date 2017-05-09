@@ -1,0 +1,44 @@
+body {
+  background-color: burlywood;
+  margin: 0;
+}
+
+.puppies-section {
+  background-color: blue;
+}
+
+.kitten-section {
+  background-color: #99ccff;
+}
+
+p {
+  color: orange;
+}
+
+.white-paragraph {
+  color: white;
+  font-size: 10px;
+}
+
+#paragraph-2 {
+  font-size: 16px;
+}
+
+img {
+  height: 200px;
+}
+
+#kitten-div img {
+  height: 100px;
+}
+
+h3 {
+  font-size: 15px;
+  color: aliceblue;
+  text-align: center;
+}
+
+a {
+  color: white;
+  font-size: .5em;
+}
